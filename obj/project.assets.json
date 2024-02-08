@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/lubuntu/Documents/Projectos/sitioplatzi/sitioplatzi.csproj",
+      "projectUniqueName": "/home/lubuntu/Downloads/sitioplatzi/sitioplatzi.csproj",
       "projectName": "sitioplatzi",
-      "projectPath": "/home/lubuntu/Documents/Projectos/sitioplatzi/sitioplatzi.csproj",
+      "projectPath": "/home/lubuntu/Downloads/sitioplatzi/sitioplatzi.csproj",
       "packagesPath": "/home/lubuntu/.nuget/packages/",
-      "outputPath": "/home/lubuntu/Documents/Projectos/sitioplatzi/obj/",
+      "outputPath": "/home/lubuntu/Downloads/sitioplatzi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/lubuntu/.nuget/NuGet/NuGet.Config"
