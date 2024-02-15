@@ -1,7 +1,14 @@
+using sitioplatzi.Models;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Design;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddDbContext<ContactoContext>(options =>
+{
+   options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConn"));
+});
 
 var app = builder.Build();
 
