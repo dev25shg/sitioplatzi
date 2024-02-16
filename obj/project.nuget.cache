@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Wn4M7drzkvwXSyXhejpXp97JKhTFhV2ZU87HRwrZzpXw3CCRpHVWdU2FGBIYmZS/NfkOGFjBqFBCL5Y+q8+jRg==",
+  "dgSpecHash": "D1zwrpe/hJDvq1Uy8KXhXoU2DFOQC7qBdjmxsZ2jiY1MSyuRtXNxWaoXTWanBADbPw7s/L1yj1ZjAJuSxS0QUA==",
   "success": true,
-  "projectFilePath": "/home/lubuntu/Documents/Projectos/sitioplatzi/sitioplatzi.csproj",
+  "projectFilePath": "/home/lubuntu/Documents/Proyectos/sitioplatzi/sitioplatzi.csproj",
   "expectedPackageFiles": [
     "/home/lubuntu/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/home/lubuntu/.nuget/packages/microsoft.aspnetcore.mvc.razor.extensions/6.0.27/microsoft.aspnetcore.mvc.razor.extensions.6.0.27.nupkg.sha512",

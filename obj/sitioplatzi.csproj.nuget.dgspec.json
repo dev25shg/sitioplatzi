@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/lubuntu/Documents/Projectos/sitioplatzi/sitioplatzi.csproj": {}
+    "/home/lubuntu/Documents/Proyectos/sitioplatzi/sitioplatzi.csproj": {}
   },
   "projects": {
-    "/home/lubuntu/Documents/Projectos/sitioplatzi/sitioplatzi.csproj": {
+    "/home/lubuntu/Documents/Proyectos/sitioplatzi/sitioplatzi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/lubuntu/Documents/Projectos/sitioplatzi/sitioplatzi.csproj",
+        "projectUniqueName": "/home/lubuntu/Documents/Proyectos/sitioplatzi/sitioplatzi.csproj",
         "projectName": "sitioplatzi",
-        "projectPath": "/home/lubuntu/Documents/Projectos/sitioplatzi/sitioplatzi.csproj",
+        "projectPath": "/home/lubuntu/Documents/Proyectos/sitioplatzi/sitioplatzi.csproj",
         "packagesPath": "/home/lubuntu/.nuget/packages/",
-        "outputPath": "/home/lubuntu/Documents/Projectos/sitioplatzi/obj/",
+        "outputPath": "/home/lubuntu/Documents/Proyectos/sitioplatzi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/lubuntu/.nuget/NuGet/NuGet.Config"

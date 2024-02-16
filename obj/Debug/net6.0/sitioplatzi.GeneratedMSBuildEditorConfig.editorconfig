@@ -8,45 +8,45 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = sitioplatzi
 build_property.RootNamespace = sitioplatzi
-build_property.ProjectDir = /home/lubuntu/Documents/Projectos/sitioplatzi/
+build_property.ProjectDir = /home/lubuntu/Documents/Proyectos/sitioplatzi/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
-build_property.MSBuildProjectDirectory = /home/lubuntu/Documents/Projectos/sitioplatzi
+build_property.MSBuildProjectDirectory = /home/lubuntu/Documents/Proyectos/sitioplatzi
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/lubuntu/Documents/Projectos/sitioplatzi/Views/Contact/Guardar.cshtml]
+[/home/lubuntu/Documents/Proyectos/sitioplatzi/Views/Contact/Guardar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGFjdC9HdWFyZGFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/lubuntu/Documents/Projectos/sitioplatzi/Views/Contact/Listar.cshtml]
+[/home/lubuntu/Documents/Proyectos/sitioplatzi/Views/Contact/Listar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGFjdC9MaXN0YXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/lubuntu/Documents/Projectos/sitioplatzi/Views/Home/Index.cshtml]
+[/home/lubuntu/Documents/Proyectos/sitioplatzi/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/lubuntu/Documents/Projectos/sitioplatzi/Views/Home/Privacy.cshtml]
+[/home/lubuntu/Documents/Proyectos/sitioplatzi/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/lubuntu/Documents/Projectos/sitioplatzi/Views/Shared/Error.cshtml]
+[/home/lubuntu/Documents/Proyectos/sitioplatzi/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/lubuntu/Documents/Projectos/sitioplatzi/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/home/lubuntu/Documents/Proyectos/sitioplatzi/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/lubuntu/Documents/Projectos/sitioplatzi/Views/_ViewImports.cshtml]
+[/home/lubuntu/Documents/Proyectos/sitioplatzi/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/lubuntu/Documents/Projectos/sitioplatzi/Views/_ViewStart.cshtml]
+[/home/lubuntu/Documents/Proyectos/sitioplatzi/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/lubuntu/Documents/Projectos/sitioplatzi/Views/Shared/_Layout.cshtml]
+[/home/lubuntu/Documents/Proyectos/sitioplatzi/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-r0tl8s612b
