@@ -14,6 +14,7 @@ namespace sitioplatzi.Controllers
     {
         //Crear carpeta Datos donde se consuman las consulta de EF private ContactoContext contactocon; 
         private readonly ILogger<HomeController> _logger;
+        //private ContactoContext conn;
 
         public ContactController(ILogger<HomeController> logger)
         {
